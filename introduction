@@ -48,3 +48,18 @@ For Experienced:-
 -> Hello World in Python
 
 Hello, World! in python is the first python program which we learn when we start learning any program. It’s a simple program that displays the message “Hello, World!” on the screen.
+
+
+How does this work:
+
+print() is a built-in function in Python that tells the program to display something on the screen. We need to add the string in parenthesis of print() function that we are displaying on the screen.
+“Hello, World!” is a string text that we want to display. Strings are always enclosed in quotation marks.
+
+## Python Comments ##
+
+-> Comments in Python are the lines in the code that are ignored by the interpreter during the execution of the program.
+-> Comments enhance the readability of the code.
+-> Comment can be used to identify functionality or structure the code-base.
+-> Comment can help understanding unusual or tricky scenarios handled by the code to prevent accidental removal or changes.
+-> Comments can be used to prevent executing any specific part of your code, while making changes or testing.
+
