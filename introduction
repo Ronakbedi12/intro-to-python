@@ -63,3 +63,6 @@ print() is a built-in function in Python that tells the program to display somet
 -> Comment can help understanding unusual or tricky scenarios handled by the code to prevent accidental removal or changes.
 -> Comments can be used to prevent executing any specific part of your code, while making changes or testing.
 
+-> Indentation in Python.
+In Python, indentation is used to define blocks of code. It tells the Python interpreter that a group of statements belongs to a specific block. All statements with the same level of indentation are considered part of the same block. Indentation is achieved using whitespace (spaces or tabs) at the beginning of each line.
+
