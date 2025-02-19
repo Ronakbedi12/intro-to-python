@@ -63,6 +63,17 @@ print() is a built-in function in Python that tells the program to display somet
 -> Comment can help understanding unusual or tricky scenarios handled by the code to prevent accidental removal or changes.
 -> Comments can be used to prevent executing any specific part of your code, while making changes or testing.
 
+## Famous Application Built using Python ##
+
+-> YouTube: World’s largest video-sharing platform uses Python for features like video streaming and backend services.
+-> Instagram: This popular social media app relies on Python’s simplicity for scaling and handling millions of users.
+-> Spotify: Python is used for backend services and machine learning to personalize music recommendations.
+-> Dropbox: The file hosting service uses Python for both its desktop client and server-side operations.
+-> Netflix: Python powers key components of Netflix’s recommendation engine and content delivery systems (CDN).
+-> Google: Python is one of the key languages used in Google for web crawling, testing, and data analysis.
+-> Uber: Python helps Uber handle dynamic pricing and route optimization using machine learning.
+-> Pinterest: Python is used to process and store huge amounts of image data efficiently.
+
 -> Indentation in Python.
 In Python, indentation is used to define blocks of code. It tells the Python interpreter that a group of statements belongs to a specific block. All statements with the same level of indentation are considered part of the same block. Indentation is achieved using whitespace (spaces or tabs) at the beginning of each line.
 
